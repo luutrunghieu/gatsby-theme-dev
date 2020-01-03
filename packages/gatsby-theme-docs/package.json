@@ -1,0 +1,9 @@
+{
+  "name": "gatsby-theme-docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "mkdirp": "^0.5.1"
+  }
+}
