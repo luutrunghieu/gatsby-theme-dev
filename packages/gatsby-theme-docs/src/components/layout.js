@@ -2,7 +2,7 @@ import React from 'react';
 
 const Layout = ({ children }) => (
   <React.Fragment>
-    <header>Gatsby</header>
+    <header>gatsby-theme-docs</header>
     <main>{children}</main>
   </React.Fragment>
 );

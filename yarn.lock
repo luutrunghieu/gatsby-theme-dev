@@ -6519,7 +6519,7 @@ gatsby@^2.15.28:
     xstate "^4.6.7"
     yaml-loader "^0.5.0"
 
-gatsby@^2.18.17:
+gatsby@^2.17.0:
   version "2.18.17"
   resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-2.18.17.tgz#43fb4c092b09e76cc9137cfc20c67ba7fdcd755d"
   integrity sha512-Zj/LjZwzM0RXoqMmM+6H48IOazmJcuzyVY2yfTi8oYtcQH0F4xIELiDZJkZQb7mttlIsJTX3U1NLCYXPcohWwg==
@@ -10897,7 +10897,7 @@ react-dom@^16.10.1:
     prop-types "^15.6.2"
     scheduler "^0.16.2"
 
-react-dom@^16.12.0:
+react-dom@^16.10.2:
   version "16.12.0"
   resolved "https://registry.yarnpkg.com/react-dom/-/react-dom-16.12.0.tgz#0da4b714b8d13c2038c9396b54a92baea633fe11"
   integrity sha512-LMxFfAGrcS3kETtQaCkTKjMiifahaMySFDn71fZUNpPHZQEzmk/GiAeIT8JSOrHB23fnuCOMruL2a8NYlw+8Gw==
